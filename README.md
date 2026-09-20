@@ -14,7 +14,7 @@
 Адрес обновлений в настройках программы:
 
 ```
-https://raw.githubusercontent.com/vadimran1/-/main/
+https://raw.githubusercontent.com/vadimran1/RMRP/main/
 ```
 
 Выпуск новой версии: `python publish.py --app "что изменилось"`,
