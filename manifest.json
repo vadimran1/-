@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "date": "2026-09-20",
-  "notes": "тест",
+  "notes": "История обновлений и умный помощник",
   "files": [
     {
       "name": "zakonka.json",
@@ -19,16 +19,21 @@
       "size": 284047
     },
     {
+      "name": "changelog.json",
+      "sha256": "6f24f40d71c952b09c77483ab4578072a86bd3866116c33f77aaa2b6752b974d",
+      "size": 4210
+    },
+    {
       "name": "legal_items.png",
       "sha256": "a240f9265c336c340345da928451eee48e4bfed884c039cf7109d51a07af3ecb",
       "size": 298657
     }
   ],
   "app": {
-    "version": "2.6",
+    "version": "2.8",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "62c8c2bfe0a136c529798322f00fed115a9b20977e11f46a0d76bf93c58090dd",
-    "size": 31477111,
-    "notes": "тест"
+    "sha256": "fa17aed4cb07676c4f1f3e601fb91c2352076daf121299a835029c996eaa59e4",
+    "size": 31482358,
+    "notes": "История обновлений и умный помощник"
   }
 }
