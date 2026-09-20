@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "date": "2026-09-20",
+  "notes": "Памятка 2.4: голосовой ввод, помощник, автообновление",
+  "files": [
+    {
+      "name": "zakonka.json",
+      "sha256": "256638880f3311dad33995a373b0ee2d2cbecb430d7a7851da2a623b3dd31647",
+      "size": 4638345
+    },
+    {
+      "name": "guides.json",
+      "sha256": "4bfa1d6b3e348c47bc46f2355fed2b153c9ce235f366253763973339eaf48b93",
+      "size": 30929
+    },
+    {
+      "name": "nlpmodel.json",
+      "sha256": "ed7b01fc9775efde24c1c8d9b68b09955a565cabfab54a57d11d8b50f8e0baf1",
+      "size": 284047
+    },
+    {
+      "name": "legal_items.png",
+      "sha256": "a240f9265c336c340345da928451eee48e4bfed884c039cf7109d51a07af3ecb",
+      "size": 298657
+    }
+  ],
+  "app": {
+    "version": "2.4",
+    "name": "Pamyatka-RMRP.exe",
+    "sha256": "cbe836e1e272f9e0626d4b14cd4d1ff182e0bbe5e9652bf8482f9570ef7e0c7c",
+    "size": 31465899,
+    "notes": "Памятка 2.4: голосовой ввод, помощник, автообновление"
+  }
+}
