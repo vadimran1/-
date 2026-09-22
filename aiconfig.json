@@ -1,7 +1,1 @@
-{
- "enabled": false,
- "provider": "proxy",
- "proxy_url": "",
- "model": "",
- "note": "Нейросеть не подключена — работает локальный поиск."
-}
+{"enabled": true, "provider": "proxy", "proxy_url": "https://pamyatka-proxy.vercel.app", "model": "", "note": "Отвечает нейросеть."}

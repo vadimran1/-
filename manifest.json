@@ -1,7 +1,7 @@
 {
-  "version": 7,
+  "version": 8,
   "date": "2026-09-22",
-  "notes": "Помощник настраивается автором",
+  "notes": "Выбор нейросети вернулся в настройки",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "1ffdb65b0b0924d64e78c4991e787b11e7f77c335306f19f0e2cb7b6d6457f14",
-      "size": 6107
+      "sha256": "576cd2ef3d28b7f32e58c87d97ae806c50bda629cd6b4c7a31873e9d9563887b",
+      "size": 6613
     },
     {
       "name": "aiconfig.json",
-      "sha256": "a32e1e97dcabf69d89768927a59a7256c473d4a58a748e2b18fb5db6ea1c17b2",
-      "size": 185
+      "sha256": "034d5b1f9a19463484e283b005cc27f609b47e8da99aef572f47805b89b380af",
+      "size": 149
     },
     {
       "name": "legal_items.png",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.1",
+    "version": "3.2",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "7ac3aac11ae8632596ed54908b970c98a6f5f0e93f95051a6fbf164c856132e1",
-    "size": 31486446,
-    "notes": "Помощник настраивается автором"
+    "sha256": "4cdd226a6fac5b96baa97561e98eaf621ea8c2d86e7dc77795da1ec8eda9b3c5",
+    "size": 31485839,
+    "notes": "Выбор нейросети вернулся в настройки"
   }
 }
