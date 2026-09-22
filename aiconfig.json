@@ -1,1 +1,7 @@
-{"enabled": true, "provider": "proxy", "proxy_url": "https://pamyatka-proxy.vercel.app", "model": "", "note": "Отвечает нейросеть."}
+{
+ "enabled": true,
+ "provider": "proxy",
+ "proxy_url": "https://pamyatka-proxy.vercel.app",
+ "model": "",
+ "note": "Отвечает нейросеть через сервер автора."
+}

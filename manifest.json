@@ -1,7 +1,7 @@
 {
-  "version": 8,
+  "version": 9,
   "date": "2026-09-22",
-  "notes": "Выбор нейросети вернулся в настройки",
+  "notes": "Помощник заработал",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "576cd2ef3d28b7f32e58c87d97ae806c50bda629cd6b4c7a31873e9d9563887b",
-      "size": 6613
+      "sha256": "45c03c3ffa4eb6f454316a6643fcc82096bdfa844f01d66b2db12763ccf047e2",
+      "size": 7196
     },
     {
       "name": "aiconfig.json",
-      "sha256": "034d5b1f9a19463484e283b005cc27f609b47e8da99aef572f47805b89b380af",
-      "size": 149
+      "sha256": "a870f0dbd766b82466e7c27c1e9cd6bc93fb9aa225fff295e762a7096f223fcb",
+      "size": 199
     },
     {
       "name": "legal_items.png",
