@@ -3,5 +3,8 @@
  "provider": "proxy",
  "proxy_url": "https://pamyatka-proxy.vercel.app",
  "model": "",
- "note": "Отвечает нейросеть через сервер автора."
+ "note": "Отвечает нейросеть через сервер автора.",
+ "networks": [
+  "gemini"
+ ]
 }

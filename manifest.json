@@ -1,7 +1,7 @@
 {
-  "version": 9,
+  "version": 10,
   "date": "2026-09-22",
-  "notes": "Помощник заработал",
+  "notes": "Голосом стало видно",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "45c03c3ffa4eb6f454316a6643fcc82096bdfa844f01d66b2db12763ccf047e2",
-      "size": 7196
+      "sha256": "7aeadd844cc3e238c406fcc499cfa0d01c621c52b74bf06235e4260e8b8130f1",
+      "size": 7773
     },
     {
       "name": "aiconfig.json",
-      "sha256": "a870f0dbd766b82466e7c27c1e9cd6bc93fb9aa225fff295e762a7096f223fcb",
-      "size": 199
+      "sha256": "942c2ddf5d5366c351cb27b0e750a03e6e276b5bc2b511cc70c640157d5c5da0",
+      "size": 232
     },
     {
       "name": "legal_items.png",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.2",
+    "version": "3.3",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "4cdd226a6fac5b96baa97561e98eaf621ea8c2d86e7dc77795da1ec8eda9b3c5",
-    "size": 31485839,
-    "notes": "Выбор нейросети вернулся в настройки"
+    "sha256": "319ddd1a7406ddae285046f5a1f70182829ec0089e740b9a13fee7a52b7a39f3",
+    "size": 31487973,
+    "notes": "Голосом стало видно"
   }
 }
