@@ -1,7 +1,7 @@
 {
-  "version": 6,
+  "version": 7,
   "date": "2026-09-22",
-  "notes": "Прокладка и новая раскладка установки",
+  "notes": "Помощник настраивается автором",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "2980a86c9a8c150e3b39c9a39a7d84c1414a75d56ce946e7239cb10c39f0e08c",
-      "size": 5513
+      "sha256": "1ffdb65b0b0924d64e78c4991e787b11e7f77c335306f19f0e2cb7b6d6457f14",
+      "size": 6107
+    },
+    {
+      "name": "aiconfig.json",
+      "sha256": "a32e1e97dcabf69d89768927a59a7256c473d4a58a748e2b18fb5db6ea1c17b2",
+      "size": 185
     },
     {
       "name": "legal_items.png",
@@ -30,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.0",
+    "version": "3.1",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "21a6069148eec34db9d9dcb0167b6719ccb49f9345834ccbd08df8d766f2247d",
-    "size": 31488189,
-    "notes": "Прокладка и новая раскладка установки"
+    "sha256": "7ac3aac11ae8632596ed54908b970c98a6f5f0e93f95051a6fbf164c856132e1",
+    "size": 31486446,
+    "notes": "Помощник настраивается автором"
   }
 }

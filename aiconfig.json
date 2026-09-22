@@ -1,0 +1,7 @@
+{
+ "enabled": false,
+ "provider": "proxy",
+ "proxy_url": "",
+ "model": "",
+ "note": "Нейросеть не подключена — работает локальный поиск."
+}
