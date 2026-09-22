@@ -1,7 +1,7 @@
 {
-  "version": 5,
+  "version": 6,
   "date": "2026-09-22",
-  "notes": "DeepSeek и установщик",
+  "notes": "Прокладка и новая раскладка установки",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "6bc39b11b44c4afc8facf24ddc93a1417b2c179f1200d40959d2d5b18c966815",
-      "size": 4914
+      "sha256": "2980a86c9a8c150e3b39c9a39a7d84c1414a75d56ce946e7239cb10c39f0e08c",
+      "size": 5513
     },
     {
       "name": "legal_items.png",
@@ -30,10 +30,10 @@
     }
   ],
   "app": {
-    "version": "2.9",
+    "version": "3.0",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "56816bb13b80c0a99b17b1e015f95f61aa4c9e489cf95d002240ed6bc41f4ee2",
-    "size": 31487243,
-    "notes": "DeepSeek и установщик"
+    "sha256": "21a6069148eec34db9d9dcb0167b6719ccb49f9345834ccbd08df8d766f2247d",
+    "size": 31488189,
+    "notes": "Прокладка и новая раскладка установки"
   }
 }
