@@ -1,7 +1,7 @@
 {
-  "version": 14,
+  "version": 15,
   "date": "2026-09-22",
-  "notes": "Выбор сети срабатывает сразу по нажатию",
+  "notes": "Синее стекло, своя рамка окна, масштаб под размер, журнал работы",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "efe76e8d384ae9405405e10c1199c2b402c54f41bd63299217b8e6ffd9dea5b3",
-      "size": 10278
+      "sha256": "8c7dc39cb09afe88a1f5203d26f92b00c1b17b5c496ad3bfd0456835b5c3df09",
+      "size": 11278
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.7",
+    "version": "3.8",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "133efd15abef1a6f6b0121b49ccffadfb0720619a212da97ef56f4168de84284",
-    "size": 31491385,
-    "notes": "Выбор сети срабатывает сразу по нажатию"
+    "sha256": "98299693a9820d7ad6fdc3bc2d7d06493b6f8b2a5bc154dcb332de6749a953cd",
+    "size": 31528057,
+    "notes": "Синее стекло, своя рамка окна, масштаб под размер, журнал работы"
   }
 }
