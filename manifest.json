@@ -1,7 +1,7 @@
 {
-  "version": 12,
+  "version": 13,
   "date": "2026-09-22",
-  "notes": "Выбор нейросети: Gemini или Grok",
+  "notes": "Помощник снова отвечает: починен запуск нейросети, подпись показывает выбранную сеть",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "ce8842245820a46e8b4f7cfd2df49137ee5544b40c903e7f199858b1cee8ed7b",
-      "size": 8962
+      "sha256": "ff501f16a0b78ca067e7e180a3e1bd3d114824226f720d6f1ab26acfe731c5ee",
+      "size": 9724
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.5",
+    "version": "3.6",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "1ef9021a7e427dacae30db621ced2fb5d3b1494fa162e4fa08568c39a8440770",
-    "size": 31490592,
-    "notes": "Выбор нейросети: Gemini или Grok"
+    "sha256": "26ed4f09e6e1cf999781474bf6276c3f7c684180e64d6a24445b118ef868ed44",
+    "size": 31491560,
+    "notes": "Помощник снова отвечает: починен запуск нейросети, подпись показывает выбранную сеть"
   }
 }
