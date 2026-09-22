@@ -1,7 +1,7 @@
 {
-  "version": 11,
+  "version": 12,
   "date": "2026-09-22",
-  "notes": "Починен голосовой ввод",
+  "notes": "Выбор нейросети: Gemini или Grok",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,13 +20,13 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "558dc94e1ad77784e243cde1cd59718c25a30fba6514deace3203ff354b439c9",
-      "size": 8351
+      "sha256": "ce8842245820a46e8b4f7cfd2df49137ee5544b40c903e7f199858b1cee8ed7b",
+      "size": 8962
     },
     {
       "name": "aiconfig.json",
-      "sha256": "942c2ddf5d5366c351cb27b0e750a03e6e276b5bc2b511cc70c640157d5c5da0",
-      "size": 232
+      "sha256": "7122525ee593de7f3b5d434dff85b61dc1e0edc9a599ba5f722ba04806080fc5",
+      "size": 376
     },
     {
       "name": "legal_items.png",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.4",
+    "version": "3.5",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "fcfcea673077fea9ac91885f0a16c571a80f0e0272e3763752c30d77bae107c8",
-    "size": 31489838,
-    "notes": "Починен голосовой ввод"
+    "sha256": "1ef9021a7e427dacae30db621ced2fb5d3b1494fa162e4fa08568c39a8440770",
+    "size": 31490592,
+    "notes": "Выбор нейросети: Gemini или Grok"
   }
 }

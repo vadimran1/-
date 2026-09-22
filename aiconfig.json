@@ -5,6 +5,15 @@
  "model": "",
  "note": "Отвечает нейросеть через сервер автора.",
  "networks": [
-  "gemini"
+  {
+   "id": "gemini",
+   "label": "Gemini",
+   "provider": "gemini"
+  },
+  {
+   "id": "grok",
+   "label": "Grok",
+   "provider": "odirouter"
+  }
  ]
 }
