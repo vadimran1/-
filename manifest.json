@@ -1,7 +1,7 @@
 {
-  "version": 10,
+  "version": 11,
   "date": "2026-09-22",
-  "notes": "Голосом стало видно",
+  "notes": "Починен голосовой ввод",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "7aeadd844cc3e238c406fcc499cfa0d01c621c52b74bf06235e4260e8b8130f1",
-      "size": 7773
+      "sha256": "558dc94e1ad77784e243cde1cd59718c25a30fba6514deace3203ff354b439c9",
+      "size": 8351
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "3.3",
+    "version": "3.4",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "319ddd1a7406ddae285046f5a1f70182829ec0089e740b9a13fee7a52b7a39f3",
-    "size": 31487973,
-    "notes": "Голосом стало видно"
+    "sha256": "fcfcea673077fea9ac91885f0a16c571a80f0e0272e3763752c30d77bae107c8",
+    "size": 31489838,
+    "notes": "Починен голосовой ввод"
   }
 }
