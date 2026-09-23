@@ -15,5 +15,8 @@
    "label": "Grok",
    "provider": "odirouter"
   }
- ]
+ ],
+ "require_login": true,
+ "promo_hours": 48,
+ "promo_first_minutes": 3
 }
