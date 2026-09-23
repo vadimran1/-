@@ -1,7 +1,7 @@
 {
-  "version": 19,
+  "version": 20,
   "date": "2026-09-23",
-  "notes": "Новое окно: интерфейс переделан с нуля",
+  "notes": "Аккаунты через Discord (тест) и анонимная статистика",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "4d789050daced91f6ff819227efcfdfe0ab9a7c3029f20e1a766f0d90e2477b0",
-      "size": 15736
+      "sha256": "585f5e44359d3c7df637d2a0c82488b76ea566e4340230bb795318d302f7cd71",
+      "size": 16600
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "5.0",
+    "version": "5.1",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "35903e460635f68dd14260ea17dd5693f144fad2e57f3727b23198df83928923",
-    "size": 42795651,
-    "notes": "Новое окно: интерфейс переделан с нуля"
+    "sha256": "7d30d6e1e74f07cbbe74978b7c7b54c27579bca0e4d6c089f9892ebf122d2e20",
+    "size": 42807946,
+    "notes": "Аккаунты через Discord (тест) и анонимная статистика"
   }
 }
