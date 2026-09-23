@@ -1,7 +1,7 @@
 {
-  "version": 20,
+  "version": 21,
   "date": "2026-09-23",
-  "notes": "Аккаунты через Discord (тест) и анонимная статистика",
+  "notes": "Подписка на нейросети — 50 ₽ в месяц через ЮMoney",
   "files": [
     {
       "name": "zakonka.json",
@@ -20,8 +20,8 @@
     },
     {
       "name": "changelog.json",
-      "sha256": "585f5e44359d3c7df637d2a0c82488b76ea566e4340230bb795318d302f7cd71",
-      "size": 16600
+      "sha256": "4c3384272f1c87b43021831f5d32125984b366246d188814e570bd211ee1fd70",
+      "size": 17269
     },
     {
       "name": "aiconfig.json",
@@ -35,10 +35,10 @@
     }
   ],
   "app": {
-    "version": "5.1",
+    "version": "5.2",
     "name": "Pamyatka-RMRP.exe",
-    "sha256": "7d30d6e1e74f07cbbe74978b7c7b54c27579bca0e4d6c089f9892ebf122d2e20",
-    "size": 42807946,
-    "notes": "Аккаунты через Discord (тест) и анонимная статистика"
+    "sha256": "03210a3e8c0c3919ea0e26b3735e2ec6beaaeacc513aeb80d8848b30106c8ad4",
+    "size": 42830241,
+    "notes": "Подписка на нейросети — 50 ₽ в месяц через ЮMoney"
   }
 }
